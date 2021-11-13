@@ -1,102 +1,117 @@
-### Hi there, Sagar Dey [Y@SH] - aka [Sagar Dey[Y@SH]][website] 👋
+<h1 align="center">Hi 👋, I'm Ashim Rudra Paul</h1>
+<h3 align="center">A Passionate Frontend And Python Developer.</h3>
 
-[![Website](https://img.shields.io/website?label=Y@SH.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codeftshaunak.netlify.app/)
+- 🌱 I’m currently learning **Angular.js and Vue.js**
 
+- 👨‍💻 All of my projects are available at [https://github.com/codeftshaunak](https://github.com/codeftshaunak)
 
-## I'm a Developer!!
+- 💬 Ask me about **react.js**
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 Goals: Contribute more to Open Source projects and Teaching Code Others
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 📫 How to reach me **sagardeyyash19@gmail.com**
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+        <a href="https://codepen.io/codeftshaunak" target="blank"><img align="center"
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+                        alt="codeftshaunak" height="30" width="40" /></a>
+        <a href="https://twitter.com/codeftshaunak" target="blank"><img align="center"
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+                        alt="codeftshaunak" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/codeftshaunak" target="blank"><img align="center"
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                        alt="codeftshaunak" height="30" width="40" /></a>
+        <a href="https://codesandbox.com/codeftshaunak" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codeftshaunak"
+                        height="30" width="40" /></a>
+        <a href="https://fb.com/codeftshaunak" target="blank"><img align="center"
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+                        alt="codeftshaunak" height="30" width="40" /></a>
+        <a href="https://instagram.com/codeftshaunak" target="blank"><img align="center"
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                        alt="codeftshaunak" height="30" width="40" /></a>
+</p>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+                        alt="android" width="40" height="40" /> </a> <a href="https://babeljs.io/" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40"
+                        height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                        alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/"
+                target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                        alt="css3" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+                        alt="docker" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank">
+                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+        </a> <a href="https://firebase.google.com/" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
+                        height="40" /> </a> <a href="https://flutter.dev" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
+                        height="40" /> </a> <a href="https://git-scm.com/" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
+                        height="40" /> </a> <a href="https://heroku.com" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"
+                        height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                        alt="html5" width="40" height="40" /> </a> <a
+                href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+                        alt="illustrator" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                        alt="java" width="40" height="40" /> </a> <a
+                href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                        alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org"
+                target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
+                        alt="kotlin" width="40" height="40" /> </a> <a href="https://materializecss.com/"
+                target="_blank"> <img
+                        src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
+                        alt="materialize" width="40" height="40" /> </a> <a href="https://www.mongodb.com/"
+                target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                        alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                        alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                        alt="nodejs" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en"
+                target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+                        alt="photoshop" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+                        alt="php" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+                        height="40" /> </a> <a href="https://www.python.org" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                        alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                        alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank">
+                <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
+        <a href="https://redux.js.org" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+                        alt="redux" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+                        alt="sass" width="40" height="40" /> </a> <a href="https://www.sketch.com/" target="_blank">
+                <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40"
+                        height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
+                        width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank">
+                <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
+</p>
 
-<br />
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/codeftshaunak"> <img align="left"
+                        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+                        alt="codeftshaunak" /></a></p><br><br>
 
-### Languages and Tools:
+<p><img align="left"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=codeftshaunak&show_icons=true&locale=en&layout=compact"
+                alt="codeftshaunak" /></p>
 
- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
- 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<p>&nbsp;<img align="center"
+                src="https://github-readme-stats.vercel.app/api?username=codeftshaunak&show_icons=true&locale=en"
+                alt="codeftshaunak" /></p>
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65) -->
-<!-- BLOG-POST-LIST:END -->
-<!-- 
-➡ [more blog posts...](https://codestackr.com) -->
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3.  Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-
-</details>
-
-[website]: https://codeftshaunak.netlify.app/
-[youtube]: https://youtube.com/codeftshaunak
-[instagram]: https://instagram.com/shaunaklvp
-[linkedin]: https://www.linkedin.com/in/sagar-dey-33a6871a6/
-[facebook]: https://www.facebook.com/shaunak.krishna.das
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeftshaunak&"
+                alt="codeftshaunak" /></p>
