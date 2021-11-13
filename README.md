@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashim Rudra Paul</h1>
-<h3 align="center">A Passionate Frontend And Python Developer.</h3>
+<h1 align="center">Hi 👋, I'm Yash KD</h1>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Angular.js and Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codeftshaunak](https://github.com/codeftshaunak)
 
