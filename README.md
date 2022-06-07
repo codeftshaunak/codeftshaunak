@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash KD</h1>
+<h1 align="center">Hi 👋, I'm Sagar Dey [YASH]</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 - 🌱 I’m currently learning **React.js**
