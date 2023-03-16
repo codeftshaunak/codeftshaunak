@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux, Node.js MongoDB, Express.Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codeftshaunak](https://github.com/codeftshaunak)
+- 👨‍💻 All of my projects are available at [https://codeftshaunakkdass.netlify.app/](https://codeftshaunakkdass.netlify.app/)
 
 - 💬 Ask me about **react.js**
 
