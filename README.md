@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Dey [SHAUNAK KD]</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
-- 🥰 I’ve already learnt **React.js**
+- Javascript & **React.js** Expart
 
 - 🌱 I’m currently learning **Redux, Node.js MongoDB, Express.Js**
 
