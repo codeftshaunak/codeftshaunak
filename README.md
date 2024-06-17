@@ -101,19 +101,3 @@
                         width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank">
                 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/codeftshaunak"> <img align="left"
-                        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-                        alt="codeftshaunak" /></a></p><br><br>
-
-<p><img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=codeftshaunak&show_icons=true&locale=en&layout=compact"
-                alt="codeftshaunak" /></p>
-
-<p>&nbsp;<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=codeftshaunak&show_icons=true&locale=en"
-                alt="codeftshaunak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeftshaunak&"
-                alt="codeftshaunak" /></p>
