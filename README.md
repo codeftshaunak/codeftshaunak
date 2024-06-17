@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar Dey [SHAUNAK KD]</h1>
+<h1 align="center">Hi 👋, I'm Sagar Dey</h1>
 <h3 align="center">A FullStack Developer With Zero Life</h3>
 
 - Javascript & **React.js** Expart
