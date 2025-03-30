@@ -32,14 +32,12 @@ Here are the primary technologies I work with:
 Feel free to reach out to me on any of the following platforms:
 
 - **Website**: [Hypomatrix.com](https://www.hypomatrix.com)
-- **YouTube**: [My YouTube Channel](https://www.youtube.com/c/your-channel)
-- **Instagram**: [@yourusername](https://www.instagram.com/yourusername/)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourname/)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **YouTube**: [My YouTube Channel](https://www.youtube.com/@shaunakkd)
+- **Instagram**: [@shaunakkdass](https://www.instagram.com/shaunakkdass)
+- **LinkedIn**: [Sagar D.](https://www.linkedin.com/in/sagardey01)
+- **Twitter**: [Sagar D.](https://x.com/Shaunakkdas)
+- **Upwork**: [Sagar D.](https://www.upwork.com/freelancers/sagardey14)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeftshaunak&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## My Repositories
 
