@@ -1,10 +1,10 @@
 # Hi, I'm Sagar Dey (Shaunak) 👋
 
-Co-founder of **[MirrorCut](https://mirrorcut.ai)** and founder of **[HypoMatrix](https://www.hypomatrix.com)**. Full-stack engineer who builds products end to end, from the first commit to launch.
+Founder of **[MirrorCut](https://mirrorcut.ai)** and **[HypoMatrix](https://www.hypomatrix.com)**. Full-stack engineer who builds products end to end, from the first commit to launch.
 
 ## Journey
 
-- **2026: Co-founder, [MirrorCut](https://mirrorcut.ai).** An AI video editor: upload your recordings, describe the edit, and its agent turns them into ads, Shorts and finished videos.
+- **2026: Founder, [MirrorCut](https://mirrorcut.ai).** An AI video editor: upload your recordings, describe the edit, and its agent turns them into ads, Shorts and finished videos.
 - **Late 2023: Founder, [HypoMatrix](https://www.hypomatrix.com).** Building web and mobile applications for businesses and startups.
 - **2023: CTO, CoFoundersLab.** Promoted to lead engineering for the platform that connects founders with co-founders and investors.
 - **2022: Software Engineer, CoFoundersLab.**
