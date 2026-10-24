@@ -22,9 +22,11 @@ Founder of **[MirrorCut](https://mirrorcut.ai)** and **[HypoMatrix](https://www.
 - **MirrorCut**: [mirrorcut.ai](https://mirrorcut.ai)
 - **HypoMatrix**: [hypomatrix.com](https://www.hypomatrix.com)
 - **LinkedIn**: [Sagar D.](https://www.linkedin.com/in/sagardey01)
-- **Twitter**: [@Shaunakkdas](https://x.com/Shaunakkdas)
+- **X**: [@sagardeyofc](https://x.com/sagardeyofc)
 - **YouTube**: [@shaunakkd](https://www.youtube.com/@shaunakkd)
-- **Instagram**: [@shaunakkdass](https://www.instagram.com/shaunakkdass)
+- **Instagram**: [@sagardeyofficial](https://www.instagram.com/sagardeyofficial/)
+- **Threads**: [@sagardeyofficial](https://www.threads.com/@sagardeyofficial)
+- **Facebook**: [sagardeyofficials](https://www.facebook.com/sagardeyofficials)
 - **Upwork**: [Sagar D.](https://www.upwork.com/freelancers/sagardey14)
 - **Email**: [sagardeyyash19@gmail.com](mailto:sagardeyyash19@gmail.com)
 
