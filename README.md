@@ -14,16 +14,14 @@ change lands on a real timeline for you to keep or undo. Public launch in Novemb
 
 ### Experience
 
-**Founder**, MirrorCut · 2026 – present<br/>
+**Founder**, MirrorCut · Oct 2026 – present<br/>
 Building an AI video editor, from the agent to the renderer.
 
-**Founder**, HypoMatrix · 2023 – present<br/>
+**Founder**, HypoMatrix · Jan 2023 – Oct 2026<br/>
 Web and mobile applications for businesses and startups.
 
-**Chief Technology Officer**, CoFoundersLab · 2023<br/>
-Promoted to lead engineering for the platform that connects founders with co-founders and investors.
-
-**Software Engineer**, CoFoundersLab · 2022 – 2023
+**Lead Software Engineer**, CoFoundersLab · Aug 2022 – Jan 2025<br/>
+Led a full rebuild of the platform that connects founders with co-founders and investors.
 
 ### Stack
 
@@ -32,6 +30,7 @@ AI agents and media pipelines: video, audio and rendering.
 
 ---
 
+[sagardey.com](https://sagardey.com) ·
 [mirrorcut.ai](https://mirrorcut.ai) ·
 [LinkedIn](https://www.linkedin.com/in/deysagar/) ·
 [X](https://x.com/sagardeyofc) ·
@@ -39,4 +38,4 @@ AI agents and media pipelines: video, audio and rendering.
 [Instagram](https://www.instagram.com/sagardeyofficial) ·
 [Threads](https://www.threads.com/@sagardeyofficial) ·
 [Facebook](https://www.facebook.com/sagardeyofficials/) ·
-[Email](mailto:sagardeyyash19@gmail.com)
+[Email](mailto:sagar@mirrorcut.ai)
