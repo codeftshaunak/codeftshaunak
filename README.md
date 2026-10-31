@@ -1,6 +1,6 @@
 # Sagar Dey
 
-Founder of [MirrorCut](https://mirrorcut.ai) and [HypoMatrix](https://www.hypomatrix.com). Full-stack engineer.
+Founder of [MirrorCut](https://mirrorcut.ai) and Former Founder & CEO of [HypoMatrix](https://www.hypomatrix.com). Full-stack engineer.
 
 I build products end to end, from the first commit to the launch.
 
